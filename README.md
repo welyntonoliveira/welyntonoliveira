@@ -1,5 +1,5 @@
 ## Olá 👋
-Sou um desenvolvedor front-end e designer de UX apaixonado por criar interfaces intuitivas e eficientes. Com experiência em diversas tecnologias e um sólido histórico de projetos, estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para projetos inovadores.
+Sou um desenvolvedor front-end e designer de UX. Com experiência em diversas tecnologias e um sólido histórico de projetos, estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para projetos inovadores.
 
 🔭 Atualmente estou trabalhando na Imagem Geosistemas como Desenvolvedor Front-end e Designer de UX. Aqui, desenvolvo interfaces geoespaciais para visualização e análise de dados, participo de rituais de UX e crio protótipos interativos. Também implemento sistemas escaláveis utilizando React no front-end e Python no back-end, além de criar dashboards e Sistemas de Informação Geográfica (SIG).
 
